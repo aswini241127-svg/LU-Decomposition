@@ -15,20 +15,11 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Program:
 (i) To find the L and U matrix
-```
-<img width="877" height="315" alt="5 a" src="https://github.com/user-attachments/assets/c59848f3-5c30-4872-9fdc-bddaeb6ab155" />
+<img width="877" height="315" alt="5 a" src="https://github.com/user-attachments/assets/36596531-a607-4a18-b70c-63d46c1c123a" />
 
-*/
 
 ```
 (ii) To find the LU Decomposition of a matrix
-```
-<img width="918" height="362" alt="5 b" src="https://github.com/user-attachments/assets/e107abd4-f59d-41e8-a25e-03b8ae839350" />
-
-
-/*
-
-*/
 ```
 
 ## Output:
