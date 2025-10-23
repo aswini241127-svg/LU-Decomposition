@@ -16,22 +16,17 @@ To write a program to find the LU Decomposition of a matrix.
 ## Program:
 (i) To find the L and U matrix
 ```
-/*
-Program to find the L and U matrix.
-Developed by: aswini d 
-RegisterNumber:25018420
-<img width="877" height="315" alt="5 a" src="https://github.com/user-attachments/assets/cfca969a-d3a1-4e70-9ce4-3a34456c74fe" />
+<img width="877" height="315" alt="5 a" src="https://github.com/user-attachments/assets/c59848f3-5c30-4872-9fdc-bddaeb6ab155" />
 
 */
 
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
+<img width="918" height="362" alt="5 b" src="https://github.com/user-attachments/assets/e107abd4-f59d-41e8-a25e-03b8ae839350" />
+
+
 /*
-Program to find the LU Decomposition of a matrix.
-Developed by: aswini d
-RegisterNumber: 25018420
-<img width="918" height="362" alt="5 b" src="https://github.com/user-attachments/assets/e4f3d834-38c9-452e-b474-47f87ee8bdca" />
 
 */
 ```
