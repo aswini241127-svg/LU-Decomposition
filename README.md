@@ -20,7 +20,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 ```
 (ii) To find the LU Decomposition of a matrix
-```
+<img width="918" height="362" alt="5 b" src="https://github.com/user-attachments/assets/48be3ca1-cdd7-4c1a-88f7-a8fe6d23f56d" />
 
 ## Output:
 ![lu decomposition]()
