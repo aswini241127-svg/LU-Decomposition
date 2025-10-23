@@ -20,11 +20,13 @@ To write a program to find the LU Decomposition of a matrix.
 
 ```
 (ii) To find the LU Decomposition of a matrix
-<img width="918" height="362" alt="5 b" src="https://github.com/user-attachments/assets/48be3ca1-cdd7-4c1a-88f7-a8fe6d23f56d" />
+```
+<img width="918" height="362" alt="5 b" src="https://github.com/user-attachments/assets/24038dea-2f92-4478-9a0f-c10e5cd9b9df" />
 
+```
 ## Output:
 ![lu decomposition]()
-
+```
 <img width="1189" height="446" alt="5 a output" src="https://github.com/user-attachments/assets/d45cf324-cee5-4f31-99d9-636dd0eef1c2" />
 8" alt="Screenshot 2025-10-23 193143" src="https://github.com/user-attachments/assets/008a029c-b37e-4605-9793-d1bee58f4db0" />
 <img width="1247" height="208" alt="5b output" src="https://github.com/user-attachments/assets/cbf3cdd4-94e3-480a-8369-924be95bcaf6" />
